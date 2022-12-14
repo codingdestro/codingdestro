@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @codingdestro
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m mohd anas welcome to coding destro
+- 👀 I’m interested in programming and embedded systems
+- 🌱 I’m currently learning embedded systems
+...
+please subscribe my channel "codingdestro"
 
-<!---
-codingdestro/codingdestro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
