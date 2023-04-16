@@ -1,8 +1,4 @@
-- 👋 Hi, I’m mohd anas welcome to coding destro
-- 🌱 I’m currently working on next.js and blockchain app development
+### Welcome to Coding Destro
 
-...
-please subscribe my channel "codingdestro"
-
-
-
+- My name is mohd anas and i'm a web developer.
+-
