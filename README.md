@@ -1,11 +1,5 @@
-# Welcome to Coding Destro
-## My name is mohd anas and I'm a full stack web developer. 
+# Welcome to Codingdestor
 
-#### I wanna be full stack blockchain and web engineer. 
+### HI, I'm Mohd Anas 
 
-currently i am learning Typescript with react, node.js, mongodb.
-and creating mern stack app in typescript.
-
-I know python and little bit *DSA* like **array, string, linkedList, stack, heap, sorting, searching, recursion** etc...
-
-I created vanilla stack *(html, css, javascript)* projects. please checkout and subscribe **coding destro** channel.
+*I'm a full stack web developer*
