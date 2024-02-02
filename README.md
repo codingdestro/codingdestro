@@ -7,21 +7,16 @@
 and user-friendly web applications.**
 
 💌 ***localmail.office@gmail.com***
-### 🤓 Expertise
-- Building web pages
-- React Web apps
-- Node.js backend
-- Building APIs
-- Writing Unit Test
-- Page Optimizing
-- Responsive Design
 
- ### 🛠️ Skills
-- Html/Css/Javascript
-- React/Next.js
-- Node/Bun.js
-- Tailwindcss/scss/chakra-ui
-- Golang
+| 🤓 Expertise      | 🛠️ Skills |
+| ----------- | ----------- |
+| Building web pages |Html/CSS/Javascript|
+| React/Next web apps|React/Next.js|
+|Node backend|test |Node/Bun.js|
+| Building APIs|Tailwindcss/scss/chakra-ui|
+| Writing Unit Test|Golang|
+| Page Optimization||
+| Responsive Design||
 
 ### 💬 Language 
 - Hindi
